@@ -1,4 +1,4 @@
 # PaperIA
 
-Integrantes
+Integrantes: 
 Damy Villegas - Sara Diaz - Daniel Guzman
